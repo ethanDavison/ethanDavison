@@ -21,4 +21,3 @@ Both within my degree and outside, I have some hobbies and interests!
 - Creating games
 - Playing Video games, Party games, and Card games
 - Coding
-- ADD STUFF MAYBE?
