@@ -1,5 +1,5 @@
 # Ethan Davison
-PHOTO HERE <br>
+![](https://scontent-sea1-1.xx.fbcdn.net/v/t39.30808-6/409213536_740122221344561_5726596972928293222_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=exvq79MHiwQQ7kNvwHVRw1f&_nc_oc=Adn9_eeA4BwW1v1Qjj53yytW3Tsf1v-SG-HJDf-8geUtwcBdCDrDKVK8jLtQkvF_aQM&_nc_zt=23&_nc_ht=scontent-sea1-1.xx&_nc_gid=s-o5K6FzWFNYGPu_Z7JFVw&oh=00_AfZmG4ZjhBrmQbXvUEjuQRglfTnPniekdRaplVVOKZrfTA&oe=68E340CC) <br>
 
 ## Short Biography
 My name is Ethan Davison, and this is my MTech Github page! I am a Junior in Software Engineering to be graduating in spring of 2027. I am currently a full time student looking for an internship or entry level job related to my degree.
